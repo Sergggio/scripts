@@ -1,3 +1,7 @@
+############################################################
+# Script to make HTML report for autotests from json files #
+############################################################
+
 import json
 import glob
 import xml.etree.ElementTree as ET
