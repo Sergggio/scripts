@@ -1,3 +1,7 @@
+#####################################################
+# Script to restart SOAP UI stubs using Jenkins job #
+#####################################################
+
 import paramiko
 import requests
 import os
